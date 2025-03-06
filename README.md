@@ -3,8 +3,8 @@
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
   <div style="flex: 1;">
-    <h2>Hi there, I'm Ahmed! 👋</h2>
-    <ul>
+    <h1 style="font-size: 28px;">Hi there, I'm Ahmed! 👋</h1>
+    <ul style="font-size: 18px;">
       <li> 🔭 I’m currently working on <b>Machine Learning & Web Development</b> </li>
       <li> 🌱 I’m learning <b>Deep Learning, Cloud Computing, and Computer Vision</b> </li>
       <li> 💬 Ask me about <b>Java, Python, and Web Design</b> </li>
@@ -13,12 +13,15 @@
     </ul>
   </div>
 
+</div>
+
+
   <div style="flex: 1; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKamal-41&layout=donut&hide_border=true" alt="Top Languages"/>
   </div>
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=AhmedKamal-41&color=blueviolet" alt="Profile Views Counter"/>
+<img src="https://komarev.com/ghpvc/?username=AhmedKamal-41-reset&color=blueviolet" alt="Profile Views Counter"/>
 
 
 
