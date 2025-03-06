@@ -3,7 +3,7 @@
 
   <div style="flex: 1;">
     <h1 style="font-size: 42px;">Hi there, I'm Ahmed! 👋</h1>
-    <ul style="font-size: 20px;">
+    <ul style="font-size: 40px;">
       <li> 🔭 I’m currently working on <b>Machine Learning & Web Development</b> </li>
       <li> 🌱 I’m learning <b>Deep Learning, Cloud Computing, and Computer Vision</b> </li>
       <li> 💬 Ask me about <b>Java, Python, and Web Design</b> </li>
