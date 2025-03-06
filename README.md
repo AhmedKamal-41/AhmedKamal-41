@@ -1,10 +1,9 @@
 
-
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 40px;">
 
   <div style="flex: 1;">
-    <h1 style="font-size: 28px;">Hi there, I'm Ahmed! 👋</h1>
-    <ul style="font-size: 18px;">
+    <h1 style="font-size: 42px;">Hi there, I'm Ahmed! 👋</h1>
+    <ul style="font-size: 20px;">
       <li> 🔭 I’m currently working on <b>Machine Learning & Web Development</b> </li>
       <li> 🌱 I’m learning <b>Deep Learning, Cloud Computing, and Computer Vision</b> </li>
       <li> 💬 Ask me about <b>Java, Python, and Web Design</b> </li>
