@@ -1,16 +1,15 @@
+<div style="display: flex; flex-direction: column; gap: 10px;">
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 40px;">
+  <h1 style="font-size: 36px;">Hi there, I'm Ahmed! 👋</h1>
 
-  <div style="flex: 1;">
-    <h1 style="font-size: 42px;">Hi there, I'm Ahmed! 👋</h1>
-    <ul style="font-size: 40px;">
-      <li> 🔭 I’m currently working on <b>Machine Learning & Web Development</b> </li>
-      <li> 🌱 I’m learning <b>Deep Learning, Cloud Computing, and Computer Vision</b> </li>
-      <li> 💬 Ask me about <b>Java, Python, and Web Design</b> </li>
-      <li> 📫 How to reach me: <a href="mailto:ahmedkali841@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/ahmed-ali-47859a209/">LinkedIn</a></li>
-      <li> ⚡ Fun fact: <b>I love Soccer & Coding!</b> </li>
-    </ul>
-  </div>
+  <p style="font-size: 22px;"> 🔭 I’m currently working on <b>Machine Learning & Web Development</b> </p>
+  <p style="font-size: 22px;"> 🌱 I’m learning <b>Deep Learning, Cloud Computing, and Computer Vision</b> </p>
+  <p style="font-size: 22px;"> 💬 Ask me about <b>Java, Python, and Web Design</b> </p>
+  <p style="font-size: 22px;"> 📫 How to reach me: 
+    <a href="mailto:ahmedkali841@gmail.com">Email</a> / 
+    <a href="https://www.linkedin.com/in/ahmed-ali-47859a209/">LinkedIn</a> 
+  </p>
+  <p style="font-size: 22px;"> ⚡ Fun fact: <b>I love Soccer & Coding!</b> </p>
 
 </div>
 
