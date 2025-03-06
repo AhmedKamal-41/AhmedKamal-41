@@ -20,7 +20,6 @@
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=AhmedKamal-41&color=blueviolet" alt="Profile Views Counter"/>
 
 
 ### 🛠️ Tech Stack
