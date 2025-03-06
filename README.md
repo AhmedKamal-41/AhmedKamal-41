@@ -2,10 +2,10 @@
 
   <h1 style="font-size: 36px;">Hi there, I'm Ahmed! 👋</h1>
 
-  <p style="font-size: 22px;"> 🔭 I’m currently working on <b>Machine Learning & Web Development</b> </p>
-  <p style="font-size: 22px;"> 🌱 I’m learning <b>Deep Learning, Cloud Computing, and Computer Vision</b> </p>
-  <p style="font-size: 22px;"> 💬 Ask me about <b>Java, Python, and Web Design</b> </p>
-  <p style="font-size: 22px;"> 📫 How to reach me: 
+  <p style="font-size: 32px;"> 🔭 I’m currently working on <b>Machine Learning & Web Development</b> </p>
+  <p style="font-size: 32px;"> 🌱 I’m learning <b>Deep Learning, Cloud Computing, and Computer Vision</b> </p>
+  <p style="font-size: 32px;"> 💬 Ask me about <b>Java, Python, and Web Design</b> </p>
+  <p style="font-size: 32px;"> 📫 How to reach me: 
     <a href="mailto:ahmedkali841@gmail.com">Email</a> / 
     <a href="https://www.linkedin.com/in/ahmed-ali-47859a209/">LinkedIn</a> 
   </p>
