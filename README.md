@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
-  <h1 style="font-size: 36px;">Hi there, I'm Ahmed! 👋</h1>
+  <h1 style="font-size: 36px;">Hi, I'm Ahmed Ali! 👋</h1>
 
   <p style="font-size: 32px;"> 🔭 I’m currently working on <b>Machine Learning & Web Development</b> </p>
   <p style="font-size: 32px;"> 🌱 I’m learning <b>Deep Learning, Cloud Computing, and Computer Vision</b> </p>
