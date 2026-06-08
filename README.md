@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi, I'm Ahmed Ali 👋
@@ -88,4 +87,3 @@ I build data-driven and full-stack applications that turn real problems into cle
 [![Gmail](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedkali841@gmail.com)
 
 </div>
-```
