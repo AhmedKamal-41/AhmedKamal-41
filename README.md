@@ -66,11 +66,13 @@ I build data-driven and full-stack applications that turn real problems into cle
 
 ---
 
-## Most Used Languages
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKamal-41&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=default&cache_seconds=21600" alt="Most Used Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedKamal-41&show_icons=true&hide_border=true&theme=transparent" alt="Ahmed's GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKamal-41&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&theme=transparent" alt="Most Used Languages" />
 
 </div>
 
