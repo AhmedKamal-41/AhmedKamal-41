@@ -2,15 +2,13 @@
 
 # Hi, I'm Ahmed Ali 👋
 
-### Computer Science Graduate | Data Science | Machine Learning | Full-Stack Development
+### Computer Science Graduate focused on Data Science, Machine Learning, and Full-Stack Development
 
-I build data-driven and full-stack applications that turn real problems into clear, usable solutions.
+I build data-driven and full-stack applications that turn real-world problems into clear, usable solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ali-47859a209/)
 [![GitHub](https://img.shields.io/badge/GitHub-AhmedKamal--41-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedKamal-41)
 [![Email](https://img.shields.io/badge/Email-ahmedkali841%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedkali841@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedKamal-41&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -18,10 +16,10 @@ I build data-driven and full-stack applications that turn real problems into cle
 
 ## About Me
 
-- 🔭 I’m currently building projects in **Machine Learning, Data Science, and Web Development**
+- 🔭 I’m currently building projects in **Machine Learning, Data Science, and Full-Stack Development**
 - 🌱 I’m learning more about **Deep Learning, Cloud Computing, and Computer Vision**
 - 💬 Ask me about **Python, Java, SQL, React, and Web Development**
-- ⚽ Fun fact: I enjoy **soccer, coding, and building useful projects**
+- ⚽ Outside of coding, I enjoy **soccer and building useful projects**
 
 ---
 
@@ -70,11 +68,9 @@ I build data-driven and full-stack applications that turn real problems into cle
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats-zeta-woad-28.vercel.app/api/top-langs?username=AhmedKamal-41&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=default" alt="Most Used Languages" />
+<img width="48%" src="https://github-readme-stats-zeta-woad-28.vercel.app/api/top-langs?username=AhmedKamal-41&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=default" alt="Most Used Languages" />
 
-<br />
-
-<img height="170em" src="https://github-readme-stats-zeta-woad-28.vercel.app/api?username=AhmedKamal-41&show_icons=true&hide_rank=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Overview" />
+<img width="48%" src="https://github-readme-stats-zeta-woad-28.vercel.app/api?username=AhmedKamal-41&show_icons=true&hide_rank=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Overview" />
 
 </div>
 
