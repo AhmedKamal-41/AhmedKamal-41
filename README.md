@@ -70,7 +70,11 @@ I build data-driven and full-stack applications that turn real problems into cle
 
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats-zeta-woad-28.vercel.app/api/top-langs?username=AhmedKamal-41&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=default" alt="Most Used Languages" />
+<img height="190em" src="https://github-readme-stats-zeta-woad-28.vercel.app/api/top-langs?username=AhmedKamal-41&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=default" alt="Most Used Languages" />
+
+<br />
+
+<img height="170em" src="https://github-readme-stats-zeta-woad-28.vercel.app/api?username=AhmedKamal-41&show_icons=true&hide_rank=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Overview" />
 
 </div>
 
