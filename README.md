@@ -66,11 +66,21 @@ I build data-driven and full-stack applications that turn real problems into cle
 
 ---
 
-## Most Used Languages
+## GitHub Overview
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats-zeta-woad-28.vercel.app/api/top-langs?username=AhmedKamal-41&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=default" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedKamal-41&theme=github" alt="GitHub Profile Summary" />
+
+<br />
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedKamal-41&theme=github&exclude=jupyter%20Notebook" alt="Top Languages by Repository" />
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedKamal-41&theme=github&exclude=jupyter%20Notebook" alt="Top Languages by Commit" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedKamal-41&theme=github-compact&hide_border=true" alt="Ahmed's GitHub Activity Graph" />
 
 </div>
 
